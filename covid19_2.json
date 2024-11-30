@@ -1,0 +1,266 @@
+[
+    {
+        "epiweek": 1,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 12.83,
+        "date": "2024-01-01"
+    },
+    {
+        "epiweek": 2,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 11.67,
+        "date": "2024-01-08"
+    },
+    {
+        "epiweek": 3,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.84,
+        "date": "2024-01-15"
+    },
+    {
+        "epiweek": 4,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.73,
+        "date": "2024-01-22"
+    },
+    {
+        "epiweek": 5,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 9.39,
+        "date": "2024-01-29"
+    },
+    {
+        "epiweek": 6,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 8.15,
+        "date": "2024-02-05"
+    },
+    {
+        "epiweek": 7,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 6.62,
+        "date": "2024-02-12"
+    },
+    {
+        "epiweek": 8,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 5.69,
+        "date": "2024-02-19"
+    },
+    {
+        "epiweek": 9,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.69,
+        "date": "2024-02-26"
+    },
+    {
+        "epiweek": 10,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.57,
+        "date": "2024-03-04"
+    },
+    {
+        "epiweek": 11,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.79,
+        "date": "2024-03-11"
+    },
+    {
+        "epiweek": 12,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.49,
+        "date": "2024-03-18"
+    },
+    {
+        "epiweek": 13,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.42,
+        "date": "2024-03-25"
+    },
+    {
+        "epiweek": 14,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 4.88,
+        "date": "2024-04-01"
+    },
+    {
+        "epiweek": 15,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 5.05,
+        "date": "2024-04-08"
+    },
+    {
+        "epiweek": 16,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 5.61,
+        "date": "2024-04-15"
+    },
+    {
+        "epiweek": 17,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 6.73,
+        "date": "2024-04-22"
+    },
+    {
+        "epiweek": 18,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 8.93,
+        "date": "2024-04-29"
+    },
+    {
+        "epiweek": 19,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.3,
+        "date": "2024-05-06"
+    },
+    {
+        "epiweek": 20,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 9.61,
+        "date": "2024-05-13"
+    },
+    {
+        "epiweek": 21,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 8.97,
+        "date": "2024-05-20"
+    },
+    {
+        "epiweek": 22,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 8.71,
+        "date": "2024-05-27"
+    },
+    {
+        "epiweek": 23,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 9.56,
+        "date": "2024-06-03"
+    },
+    {
+        "epiweek": 24,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 11.05,
+        "date": "2024-06-10"
+    },
+    {
+        "epiweek": 25,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 13.79,
+        "date": "2024-06-17"
+    },
+    {
+        "epiweek": 26,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 14.98,
+        "date": "2024-06-24"
+    },
+    {
+        "epiweek": 27,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 14.56,
+        "date": "2024-07-01"
+    },
+    {
+        "epiweek": 28,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 15.81,
+        "date": "2024-07-08"
+    },
+    {
+        "epiweek": 29,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 16.18,
+        "date": "2024-07-15"
+    },
+    {
+        "epiweek": 30,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 15.62,
+        "date": "2024-07-22"
+    },
+    {
+        "epiweek": 31,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 13.93,
+        "date": "2024-07-29"
+    },
+    {
+        "epiweek": 32,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 12.12,
+        "date": "2024-08-05"
+    },
+    {
+        "epiweek": 33,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.61,
+        "date": "2024-08-12"
+    },
+    {
+        "epiweek": 34,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 9.28,
+        "date": "2024-08-19"
+    },
+    {
+        "epiweek": 35,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.03,
+        "date": "2024-08-26"
+    },
+    {
+        "epiweek": 36,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.21,
+        "date": "2024-09-02"
+    },
+    {
+        "epiweek": 37,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 10.31,
+        "date": "2024-09-09"
+    },
+    {
+        "epiweek": 38,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 12.54,
+        "date": "2024-09-16"
+    },
+    {
+        "epiweek": 39,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 13.39,
+        "date": "2024-09-23"
+    },
+    {
+        "epiweek": 40,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 13.61,
+        "date": "2024-09-30"
+    },
+    {
+        "epiweek": 41,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 14.35,
+        "date": "2024-10-07"
+    },
+    {
+        "epiweek": 42,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 13.24,
+        "date": "2024-10-14"
+    },
+    {
+        "epiweek": 43,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 11.93,
+        "date": "2024-10-21"
+    },
+    {
+        "epiweek": 44,
+        "metric": "COVID-19_testing_positivity7DayRolling",
+        "metric_value": 9.51,
+        "date": "2024-10-28"
+    }
+]
