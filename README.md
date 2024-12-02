@@ -2,7 +2,7 @@
   
 # About this Repository ℹ️
 
-This repository contains the project I did as a part of the assignment for ECS780P - Computer Programming. <br>
+This repository contains the project I did as a part of the coursework for ECS780P - Computer Programming. <br>
 The assignment required me to develop a simple dashboard that downloads and displays the UK Government's infectious diseases [data](https://ukhsa-dashboard.data.gov.uk/) published by the UK Health Security Agency ([UKHSA](https://www.gov.uk/government/organisations/uk-health-security-agency)).
 
 Click the below button to launch this repository as a Binder: <br>
