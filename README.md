@@ -7,14 +7,14 @@ The assignment required me to develop a simple dashboard that downloads and disp
 
 Click the below button to launch this repository as a Binder: <br>
 <div align = center>
-  <a href="https://mybinder.org/v2/gh/mijisu0103/COVID-Dashboard-Project.git/HEAD" target="_blank">
+  <a href="https://mybinder.org/v2/gh/mijisu0103/UKHSA-Dashboard-Project/HEAD" target="_blank">
       <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
   </a>
 </div>
 
 <br>
 
-Click [here](https://hub.ovh2.mybinder.org/user/mijisu0103-covi-shboard-project-d57k0061/voila/render/DIY%20Dashboard.ipynb) to render the dashboard template (```DIY Dasboard.ipynb```) with Voila <br>
+Click [here](https://hub.binder.curvenote.dev/user/mijisu0103-ukhs-shboard-project-80h0jz5g/voila/render/DIY%20Dashboard.ipynb) to render the dashboard template (```DIY Dasboard.ipynb```) with Voila <br>
 - Sometimes, it takes a while to load the dashboard or execution gets stuck at a certain point
     - In this case, simply spam refreshing button until it loads the dashboard
 
